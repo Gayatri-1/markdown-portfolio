@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+A list of my favorite things:
+* cat
+* rat
+* dog
+* rabbit
+
+In order these are my favorite ice creams:
+1. cream stone
+2. Red velvet
+3. black forest
+4. Strawberry
