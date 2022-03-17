@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+You can checkout my github profile at:
+https://github.com/Gayatri-1
